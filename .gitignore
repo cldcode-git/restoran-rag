@@ -1,0 +1,10 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Yeniden üretilebilir hata ayıklama çıktıları (inspect_chunks.py)
+data/debug/
+
+# macOS
+.DS_Store
